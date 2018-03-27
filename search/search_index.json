@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to ODOS-II\n\n\nFor full documentation visit \nodos-II\n.\n\n\nDescription\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLists of services\n\n\n* ODOSII-API Gatway\n* ODOSII-svc1\n* ODOSII-svc2\n* MS-Registry",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-odos-ii",
+            "text": "For full documentation visit  odos-II .",
+            "title": "Welcome to ODOS-II"
+        },
+        {
+            "location": "/#description",
+            "text": "",
+            "title": "Description"
+        },
+        {
+            "location": "/#lists-of-services",
+            "text": "* ODOSII-API Gatway\n* ODOSII-svc1\n* ODOSII-svc2\n* MS-Registry",
+            "title": "Lists of services"
+        }
+    ]
+}
