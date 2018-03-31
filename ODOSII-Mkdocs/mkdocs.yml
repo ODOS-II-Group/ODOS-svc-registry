@@ -1,0 +1,25 @@
+site_name: ODOSII
+site_description: 'ADescription of ODOSII Microservices..........'
+site_author: 'Ezana Aimero, Wubshet Kifle, Shawn Lassiter, Eyuel Abebe, Shalama Bekele, Yonatan Molla, Ranga  , Patrick Chou'
+repo_url: https://github.com/ODOS-II-Group/ODOS-svc-registry
+repo_name: 'ODOS-II-Group/ODOS-svc-registry'
+
+theme:
+  name: 'material'
+pages:
+- Home: 'index.md'
+# - 'Using the web service': 
+#     - 'odos api gateway': 'example.md'
+#     - 'odos registry': 'usage.md'
+#     - 'odos Hystrix': 'Hystrix.md'
+#     - 'odos Eureka': 'Eureka.md'
+#     - 'odos service1': 'service1.md'
+# - 'Command-line usage':
+#     - Installation: 'install.md'
+#     - 'odosscanner files': 'hiscan.md'
+#     - 'odos input': 'custom.md'
+#     - 'odos regions' : 'regions.md'
+#     - 'odos sets' : 'genesets.md'
+#     - 'odos parameters' : 'parameters.md'
+# - Output: 'output.md'
+# - 'MIT License': 'license.md'
